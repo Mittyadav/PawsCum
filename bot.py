@@ -45,7 +45,7 @@ class PAWS:
  |_____/_/    \_\_|  \_\_|\_\ |______|_____|_|    |______|
                                                            """
         print(Fore.GREEN + Style.BRIGHT + banner + Style.RESET_ALL)
-        print(Fore.GREEN + f" made Bot by Dark life")
+        print(Fore.GREEN + f" Bot made by Dark life")
         print(Fore.RED + f" FREE TO USE = Join us on {Fore.GREEN}https://t.me/scripthub00")
         print(Fore.YELLOW + f" before start please '{Fore.GREEN}git pull{Fore.YELLOW}' to update bot")
         print(f"{Fore.WHITE}~" * 60)
