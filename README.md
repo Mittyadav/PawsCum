@@ -1,8 +1,8 @@
 # PAWS bot
 
 
-[![Join our Telegram](https://t.me/HACKER_WORLD_BD)
-[![GitHub](https://github.com/HACKERWORLDBD)
+[![Join our Telegram](https://t.me/scripthub00)
+[![GitHub](https://github.com/Mittyadav)
 
 ## Registrations [https://t.me/PAWSOG_bot/](https://t.me/PAWSOG_bot/PAWS?startapp=1ZuwyNwq)
 
@@ -21,7 +21,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/HACKERWORLDBD/PawsCum.git
+   git clone https://github.com/Mittyadav/PawsCum.git
    cd PawsCum
    
 Create and activate a virtual environment:
