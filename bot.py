@@ -25,14 +25,28 @@ class PAWS:
 
     def welcome(self):
         banner = f"""{Fore.GREEN}
-██   ██  █████   ██████ ██   ██ ███████ ██████      ██     ██  ██████  ██████  ██      ██████      ██████  ██████  
-██   ██ ██   ██ ██      ██  ██  ██      ██   ██     ██     ██ ██    ██ ██   ██ ██      ██   ██     ██   ██ ██   ██ 
-███████ ███████ ██      █████   █████   ██████      ██  █  ██ ██    ██ ██████  ██      ██   ██     ██████  ██   ██ 
-██   ██ ██   ██ ██      ██  ██  ██      ██   ██     ██ ███ ██ ██    ██ ██   ██ ██      ██   ██     ██   ██ ██   ██ 
-██   ██ ██   ██  ██████ ██   ██ ███████ ██   ██      ███ ███   ██████  ██   ██ ███████ ██████      ██████  ██████ """
+< SCRIPTHUB00 >
+ -------------
+    \
+     \
+                                   .::!!!!!!!:.
+  .!!!!!:.                        .:!!!!!!!!!!!!
+  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
+      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
+      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
+      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
+      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
+        "*$bd$$$$      '*$$$$$$$$$$$o+#"
+  _____          _____  _  __  _      _____ ______ ______
+ |  __ \   /\   |  __ \| |/ / | |    |_   _|  ____|  ____|
+ | |  | | /  \  | |__) | ' /  | |      | | | |__  | |__
+ | |  | |/ /\ \ |  _  /|  <   | |      | | |  __| |  __|
+ | |__| / ____ \| | \ \| . \  | |____ _| |_| |    | |____
+ |_____/_/    \_\_|  \_\_|\_\ |______|_____|_|    |______|
+                                                           """
         print(Fore.GREEN + Style.BRIGHT + banner + Style.RESET_ALL)
-        print(Fore.GREEN + f" PitchTalk Bot by HACKER WORLD BD")
-        print(Fore.RED + f" FREE TO USE = Join us on {Fore.GREEN}https://t.me/HACKER_WORLD_BD")
+        print(Fore.GREEN + f" made Bot by Dark life")
+        print(Fore.RED + f" FREE TO USE = Join us on {Fore.GREEN}https://t.me/scripthub00")
         print(Fore.YELLOW + f" before start please '{Fore.GREEN}git pull{Fore.YELLOW}' to update bot")
         print(f"{Fore.WHITE}~" * 60)
 
